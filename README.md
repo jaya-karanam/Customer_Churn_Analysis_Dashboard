@@ -1,5 +1,7 @@
 # Customer_Churn_Analysis_Dashboard
 Dashboard on Customer Churn Analysis 🏦👔
+<img width="538" alt="Customer_Churn_analysis" src="https://github.com/jaya-karanam/Customer_Churn_Analysis_Dashboard/assets/165159631/85efc7cc-3545-4550-9776-a490d9165c0e">
+
 
 I conducted data visualization on a Bank Customer Dataset which comprised various aspects, including personal details, credit scores, churn and activity status, account balance, credit card status, and tenure details etc.
 
